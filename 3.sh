@@ -1,3 +1,3 @@
 #!/bin/bash
-keyword="keyword"
+keyword="ключевое_слово"
 grep -rl "${keyword}" .
